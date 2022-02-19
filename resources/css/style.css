@@ -8,7 +8,7 @@ h1 {
     font-size: 50px;
     color: white;
     text-align: center;
-    padding-top: 50px;
+    padding-top: 40px;
     padding-bottom: 40px;
 }
 
@@ -17,5 +17,29 @@ h5 {
     font-weight: normal;
     font-size: 16px;
     color: aquamarine;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+video {
+  display: block; 
+  margin: 0 auto;
+  height: 100%; 
+}
+
+h2 {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    text-align: center;
+    color: white;
+    padding-top: 25px;
+    padding-bottom: 40px;
+}
+
+h4 {
+    font-family: Verdana;
+    font-size: 21px;
+    color: grey;
     text-align: center;
 }
